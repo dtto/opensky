@@ -1,6 +1,12 @@
 ---
 layout: default
+image: assets/images/cat.jpeg
 ---
+<div class="welcome-container">
+  <img src= {{ "/assets/images/cat.jpeg" | relative_url }}"/>
+  <div class="bottom-left">Optional text: Cats approve of our practice!</div>
+</div>
+
 
 <div class="welcome-content">
   {{ content }}
