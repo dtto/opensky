@@ -52,6 +52,25 @@ img{
 }
 
 
+/* RESOURCES PAGE */
+
+.resources-content li{
+  list-style-type: none;
+  font-size: 1.5rem;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+.resources-content a{
+  color: rgb(61, 61, 61);
+  text-decoration: none;
+}
+.resources-content a:hover{
+  color: rgb(105, 102, 102);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
 /* FOOTER */
 .footer{
   background-color: rgb(30, 33, 34);
