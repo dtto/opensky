@@ -28,7 +28,7 @@ font-family: 'GFS Didot', serif; */
   padding-right: 3%;
 }
 
- /* FRONT PAGE */
+/* FRONT PAGE */
 img{
   max-width: 100%;
   height: auto;
@@ -82,7 +82,6 @@ img{
 .contact-content .address-break{
   padding: 4px;
 }
-
 
 
 /* FOOTER */
@@ -158,6 +157,6 @@ img{
     max-height: 60%;
   }
   /* .footer p {
-    padding-left: 10%;
+  padding-left: 10%;
   } */
 }
