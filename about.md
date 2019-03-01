@@ -12,3 +12,4 @@ The practice of law is a powerful modem for eliminating oppression through advoc
 Our practice involves a daily process of discovery and education that cannot be acquired from textbooks alone.  Each case is carefully handled given the broader implications of the immigrant rights movement.
 
 We are committed to providing cost effective and  exceptional legal services. We  believe in empowering our clients with the necessary tools  to make informed decisions.
+CHANGE SOMETHING
