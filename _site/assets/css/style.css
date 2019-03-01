@@ -70,6 +70,18 @@ img{
   font-weight: bold;
 }
 
+/* CONTACT PAGE */
+
+.contact-content .address p{
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+
+.contact-content .address-break{
+  padding: 4px;
+}
+
+
 
 /* FOOTER */
 .footer{
