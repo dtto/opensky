@@ -1,6 +1,6 @@
-/* ---
 ---
-@import "{{ site.theme }}"; */
+---
+
 
 /* font-family: 'Open Sans', sans-serif;
 font-family: 'Raleway', sans-serif;
@@ -8,6 +8,10 @@ font-family: 'GFS Didot', serif; */
 
 * {
   font-family: 'Open Sans', sans-serif;
+}
+
+h2, h3{
+  padding-top: 20px;
 }
 
 .content{
@@ -57,11 +61,15 @@ img{
 /* RESOURCES PAGE */
 
 .resources-content li{
-  list-style-type: none;
   font-size: 1.5rem;
   padding-bottom: 5px;
   padding-top: 5px;
 }
+.resources-content ul {
+  padding: 0;
+  list-style-type: none;
+}
+
 .resources-content a{
   color: rgb(61, 61, 61);
   text-decoration: none;
@@ -84,11 +92,11 @@ img{
 }
 
 /* #map {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-  width: 100% !important;
-  max-width: 100% !important;
-  height: 400px;
+padding-left: 0 !important;
+padding-right: 0 !important;
+width: 100% !important;
+max-width: 100% !important;
+height: 400px;
 } */
 
 
