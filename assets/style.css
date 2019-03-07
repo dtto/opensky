@@ -30,6 +30,8 @@ h2, h3{
   padding-top: 3%;
   padding-left: 3%;
   padding-right: 3%;
+  background-color: #0099D8;
+  font-weight: bolder;
 }
 
 /* FRONT PAGE */
@@ -103,12 +105,11 @@ height: 400px;
 
 /* FOOTER */
 .footer{
-  background-color: rgb(30, 33, 34);
+  background-color: #0099D8;
   padding-top: 3%;
   padding-bottom: 4%;
   letter-spacing: 0.5px;
-  /* color: rgba(180, 180, 180, 1); */
-  color: rgb(147, 147, 147);
+  color: rgb(205, 205, 205);
 }
 .footer p{
   margin-bottom: -5px;
