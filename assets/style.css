@@ -10,18 +10,17 @@ font-family: 'GFS Didot', serif; */
   font-family: 'Open Sans', sans-serif;
 }
 
-h2, h3{
-  padding-top: 20px;
-}
-
 .content{
   padding-top: 10%;
   padding-bottom: 10%;
-  font-size: 3vw;
 }
 
 .content h1{
   padding-bottom: 10px;
+}
+
+h2, h3{
+  padding-top: 20px;
 }
 
 
@@ -32,6 +31,7 @@ h2, h3{
   padding-right: 3%;
   background-color: #0099D8;
   font-weight: bolder;
+  font-size: 1.2rem;
 }
 
 /* FRONT PAGE */
@@ -52,11 +52,6 @@ img{
   position: absolute;
   bottom: 20%;
   left: 10%;
-}
-
-.welcome-content{
-  padding-right: 10%;
-  padding-left: 10%;
 }
 
 
@@ -122,8 +117,11 @@ height: 400px;
 
 /* MOBILE SIZING */
 @media (max-width: 480px) {
+  img{
+    max-width: 0%;
+  }
   p{
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
   .footer{
     padding-left: 10px;
@@ -136,7 +134,7 @@ height: 400px;
 
 @media (min-width: 480px) {
   .content p{
-    font-size: 1.1rem;
+    font-size: 1.4rem;
   }
   .footer p{
     font-size: 1rem;
@@ -158,11 +156,7 @@ height: 400px;
     padding-left: 10%;
   }
   .content{
-    padding-left: 15%;
-    padding-right: 15%;
-  }
-  .content{
-    font-size: 1.1rem;
+    font-size: 1.6rem;
   }
 }
 
@@ -171,10 +165,7 @@ height: 400px;
     font-size: 1.4rem;
   }
   img{
-    max-width: 100%;
+    max-width: 80%;
     max-height: 100%%;
   }
-  /* .footer p {
-  padding-left: 10%;
-  } */
 }
