@@ -11,19 +11,21 @@ font-family: 'GFS Didot', serif; */
 }
 
 .content{
-  padding-top: 10%;
-  padding-bottom: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 .content h1{
   padding-bottom: 10px;
+  color: #0099D8;
 }
 
 h2, h3{
   padding-top: 20px;
+  color: #0099D8;
 }
 a{
-  text-decoration: none;
+  text-decoration: underline;
   font-weight: bolder;
   color: inherit;
 }
@@ -40,6 +42,9 @@ a:hover{
   background-color: #0099D8;
   font-weight: bolder;
   font-size: 1.2rem;
+}
+.navbar a{
+  text-decoration: none;
 }
 
 /* FRONT PAGE */
