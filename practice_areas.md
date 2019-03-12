@@ -1,5 +1,5 @@
 ---
-title: Practice areas page
+title: Practice Areas
 layout: practice_areas
 ---
 
@@ -17,14 +17,14 @@ The United States immigration system is built on the foundational principle of p
 * Combating allegations of marriage fraud
 
 ### Asylum
-If you fled your home country because you fear being severely harmed or if you have been severely harmed in the past, you may be eligible for asylum. Asylum applications must be filed within one year of entry into the United States unless an exception applies. Asylum is a complex area of the law involving hours of preparation of evidence. Our office handles asylum applications from all over the world and based on a variety grounds including: religion, political activity/opinion, domestic violence, ethnicity/race, or sexual orientation/gender identity. 
+If you fled your home country because you fear being severely harmed or if you have been severely harmed in the past, you may be eligible for asylum. Asylum applications must be filed within one year of entry into the United States unless an exception applies. Asylum is a complex area of the law involving hours of preparation of evidence. Our office handles asylum applications from all over the world and based on a variety grounds including: religion, political activity/opinion, domestic violence, ethnicity/race, or sexual orientation/gender identity.
 
-Our attorneys have many decades of experience representing asylum seekers. We provide an individualized approach to each case, where we help you to navigate the complex array of laws governing your eligibility. We help each applicant present the strongest case possible by locating the strongest evidence to support your case. We frequently retain the services of experts to help corroborate your case, including medical and psychological experts as well as country experts who are familiar with the conditions in your home country. There are strict time limits for applying for asylum protection, so schedule a consultation now to protect your rights. 
+Our attorneys have many decades of experience representing asylum seekers. We provide an individualized approach to each case, where we help you to navigate the complex array of laws governing your eligibility. We help each applicant present the strongest case possible by locating the strongest evidence to support your case. We frequently retain the services of experts to help corroborate your case, including medical and psychological experts as well as country experts who are familiar with the conditions in your home country. There are strict time limits for applying for asylum protection, so schedule a consultation now to protect your rights.
 
 We can assist with the following aspects of an asylum application:
 
 * Preparation of the asylum application (I-589)
-* Advice and assistance with gathering key corroborating evidence 
+* Advice and assistance with gathering key corroborating evidence
 * Representation before USCIS
 * Representation before the Immigration Court, or on appeal
 * Collaborating with expert witnesses
@@ -73,6 +73,6 @@ Has your immigration case already been denied? Open Sky Law attorneys are well-v
 * Appeals to the United States Circuit Courts of Appeal
 * Appeals to the United States District Court in certain cases
 * Petitions for Certiorari to the United States Supreme Court
- 
+
 ### Federal District Court Litigation
-The attorneys at Open Sky Law have a national reputation for successfully litigating cases before the United States District Courts. If your application has been delayed or the government has violated the law or engaged in bad faith in the handling of your immigration application, you may be eligible to file a lawsuit in Federal District Court. Additionally, if you believe that the U.S. government or its agents have violated the law, Open Sky Law may be able to assist you in seeking to hold the government accountable for its actions. There are strict limitations on what types of cases may be brought before a U.S. District Court, so the assistance of experienced counsel is vital to obtain a successful outcome. 
+The attorneys at Open Sky Law have a national reputation for successfully litigating cases before the United States District Courts. If your application has been delayed or the government has violated the law or engaged in bad faith in the handling of your immigration application, you may be eligible to file a lawsuit in Federal District Court. Additionally, if you believe that the U.S. government or its agents have violated the law, Open Sky Law may be able to assist you in seeking to hold the government accountable for its actions. There are strict limitations on what types of cases may be brought before a U.S. District Court, so the assistance of experienced counsel is vital to obtain a successful outcome.

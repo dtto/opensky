@@ -1,5 +1,5 @@
 ---
-title: About page
+title: About Us
 layout: about
 ---
 

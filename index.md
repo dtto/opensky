@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: Open Sky Law
 layout: home
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Resources page
+title: Resources
 layout: resources
 ---
 # Resources

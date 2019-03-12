@@ -1,5 +1,5 @@
 ---
-title: Consults page
+title: Consultations
 layout: consults
 ---
 
@@ -9,7 +9,7 @@ Our office is quite busy, and as a result, we do ask for a $50 deposit at the ti
 
 ### In-office consultations
 
-We would like to invite you to schedule a consultation with one of our attorneys at our offices in Kent, Washington. Our consultation fee for a one-hour meeting with our attorneys is $350.00, payable in advance. Please be sure to bring with you any documents that relate to your immigration case. If you have ever received any paperwork from U.S. immigration, please bring it with you to the appointment so that we can properly analyze your situation. Additionally, if you have ever been arrested or convicted for any criminal matter anywhere in the world, please bring any documents relating to the incident with you to your appointment. 
+We would like to invite you to schedule a consultation with one of our attorneys at our offices in Kent, Washington. Our consultation fee for a one-hour meeting with our attorneys is $350.00, payable in advance. Please be sure to bring with you any documents that relate to your immigration case. If you have ever received any paperwork from U.S. immigration, please bring it with you to the appointment so that we can properly analyze your situation. Additionally, if you have ever been arrested or convicted for any criminal matter anywhere in the world, please bring any documents relating to the incident with you to your appointment.
 
 ### Telephonic consultations
 
@@ -25,10 +25,10 @@ Our attorneys have frequently provided services to other attorneys to assist in 
 
 ### Preparing for your appointment
 
-In order for the appointment to be the most helpful to you, it is important to try to bring the following documents about your (or your relative or friend’s case): 
+In order for the appointment to be the most helpful to you, it is important to try to bring the following documents about your (or your relative or friend’s case):
 
 1. Current and prior passports, and I-94’s (or copies).
-1. Any prior applications (with the supporting documents) submitted to U.S. Immigration, the U.S. consulate, or the Department of Labor, plus any notices, receipts, or decisions regarding those applications. If you have ever been represented by another attorney, please ask that attorney for a copy of your file. Your prior lawyer should have these important documents and is required to give them to you 
+1. Any prior applications (with the supporting documents) submitted to U.S. Immigration, the U.S. consulate, or the Department of Labor, plus any notices, receipts, or decisions regarding those applications. If you have ever been represented by another attorney, please ask that attorney for a copy of your file. Your prior lawyer should have these important documents and is required to give them to you
 1. If you have ever been in deportation or removal proceedings, copies of any documents concerning those proceedings, such as the Notice to Appear, Immigration Judge/BIA or circuit court decisions and briefs. Your prior lawyer should have these and is required to give them to you.
 
 If you have any criminal record, copies of the criminal court file (especially the docket, and the judgment and sentence). Copies are available at the court house, or from your criminal defense attorney. Following the consult, the attorney will determine whether you can be accepted as a client and how to proceed.
