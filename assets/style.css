@@ -36,22 +36,16 @@ a:hover{
 
 /* NAVIGATION BAR */
 .navbar {
-  padding-top: 3%;
-  padding-left: 3%;
-  padding-right: 3%;
+  padding-top: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
   background-color: #0099D8;
-  font-weight: bolder;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 .navbar a{
   text-decoration: none;
-  color: black;
 }
 
-a .nav-link{
-  color: rgb(255, 255, 255);
-  color: peachpuff;
-}
 
 /* FRONT PAGE */
 img{
@@ -131,6 +125,11 @@ img{
 
 /* MOBILE SIZING */
 @media (max-width: 480px) {
+  .navbar {
+    padding-top: 4%;
+    padding-left: 4%;
+    padding-right: 4%;
+  }
   img{
     max-width: 0%;
   }
@@ -140,9 +139,12 @@ img{
   .footer{
     padding-left: 20px;
   }
+  .footer p{
+    font-size: 1rem;
+  }
   .content{
-    padding-left: 8%;
-    padding-right: 8%;
+    padding-left: 4%;
+    padding-right: 4%;
   }
 }
 
@@ -160,9 +162,10 @@ img{
 }
 
 @media (min-width: 768px) {
-  img{
-    max-width: 100%;
-    max-height: 100%;
+  .navbar {
+    padding-top: 1.5%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
   }
   .footer p {
     padding-left: 8%;
