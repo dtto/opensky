@@ -106,7 +106,8 @@ img{
 
 /* FOOTER */
 .footer{
-  background-color: #2d2d2d;
+  background-color: #201e1e;
+  color: rgb(108,95,95);
   padding-top: 3%;
   padding-bottom: 4%;
   letter-spacing: 0.5px;
@@ -116,8 +117,11 @@ img{
   margin-bottom: -5px;
 }
 .footer-container{
+  margin-top: 10px;
   margin-bottom: 10px;
+  color: rgb(108,95,95);
 }
+
 
 
 
@@ -130,7 +134,7 @@ img{
     font-size: 1.1rem;
   }
   .footer{
-    padding-left: 10px;
+    padding-left: 20px;
   }
   .content{
     padding-left: 8%;
