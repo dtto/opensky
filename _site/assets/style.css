@@ -147,7 +147,6 @@ img{
     font-size: 1.3rem;
   }
   .footer p{
-    font-size: 1rem;
     padding-left: 10%;
   }
   .content{
@@ -162,8 +161,7 @@ img{
     max-height: 100%;
   }
   .footer p {
-    font-size: 1.2rem;
-    padding-left: 10%;
+    padding-left: 8%;
   }
   .content{
     font-size: 1.6rem;
