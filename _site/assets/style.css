@@ -53,15 +53,26 @@ img{
 .welcome-container {
   position: relative;
   text-align: center;
-  color: black;
+  color: white;
+  padding-top: 2%;
+  font-weight: 100;
   font-size: 3vw;
   font-family: 'Open Sans', sans-serif;
 }
-.welcome-container .bottom-left {
-  position: absolute;
-  bottom: 20%;
-  left: 10%;
+
+.welcome-container svg{
+  width: 100%;
+  height: auto;
+  padding-left: 5%;
+  padding-right: 5%;
 }
+/* .welcome-container .text{
+  background-color: #0099D8;
+  padding: 1%;
+  position: absolute;
+  bottom: 70%;
+  left: 16%;
+} */
 
 
 /* RESOURCES PAGE */
