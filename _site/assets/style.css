@@ -160,6 +160,8 @@ a:hover{
   }
   .bio-photo{
     align-content: center;
+    padding-right: 0px;
+    padding-bottom: 10px;
   }
 }
 @media (min-width: 620px) {
