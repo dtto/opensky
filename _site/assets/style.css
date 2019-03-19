@@ -1,21 +1,14 @@
-/* font-family: 'Open Sans', sans-serif;
-font-family: 'Raleway', sans-serif;
-font-family: 'GFS Didot', serif; */
-
 * {
   font-family: 'Open Sans', sans-serif;
 }
-
 .content{
   padding-top: 5%;
   padding-bottom: 5%;
 }
-
 .content h1{
   padding-bottom: 10px;
   color: #0099D8;
 }
-
 h2, h3{
   padding-top: 20px;
   color: #0099D8;
@@ -23,12 +16,11 @@ h2, h3{
 a{
   text-decoration: underline;
   font-weight: bolder;
-  color: inherit;
+  color: #0099D8;
 }
 a:hover{
   color: inherit;
 }
-
 
 /* NAVIGATION BAR */
 .navbar {
@@ -42,73 +34,6 @@ a:hover{
   text-decoration: none;
 }
 
-
-/* FRONT PAGE */
-img{
-  max-width: 100%;
-  height: auto;
-  justify-content: center;
-}
-
-.welcome-container {
-  position: relative;
-  text-align: center;
-  color: white;
-  padding-top: 2%;
-  font-weight: 100;
-  font-size: 3vw;
-  font-family: 'Open Sans', sans-serif;
-}
-
-.welcome-container svg{
-  width: 100%;
-  height: auto;
-  padding-left: 10%;
-  padding-right: 10%;
-}
-/* .welcome-container .text{
-  background-color: #0099D8;
-  padding: 1%;
-  position: absolute;
-  bottom: 70%;
-  left: 16%;
-} */
-
-
-/* RESOURCES PAGE */
-
-.resources-content li{
-  font-size: 1.5rem;
-  padding-bottom: 5px;
-  padding-top: 5px;
-}
-.resources-content ul {
-  padding: 0;
-  list-style-type: none;
-}
-
-.resources-content a{
-  color: rgb(61, 61, 61);
-  text-decoration: none;
-}
-.resources-content a:hover{
-  color: rgb(105, 102, 102);
-  text-decoration: none;
-  font-weight: bold;
-}
-
-/* CONTACT PAGE */
-
-.contact-content .address p{
-  padding-top: 0px;
-  margin-bottom: 0px;
-}
-
-.contact-content .address-break{
-  padding: 4px;
-}
-
-
 /* FOOTER */
 .footer{
   background-color: #201e1e;
@@ -121,6 +46,9 @@ img{
 .footer p{
   margin-bottom: -5px;
 }
+.footer a{
+  color: inherit;
+}
 .footer-container{
   margin-top: 10px;
   margin-bottom: 10px;
@@ -128,19 +56,75 @@ img{
 }
 
 
+/* FRONT PAGE */
+.welcome-contaienr p{
+  font-size: 3vw;
+}
+.welcome-container svg{
+  width: 100%;
+  height: auto;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+}
 
+
+
+/* RESOURCES PAGE */
+.resources-content li{
+  font-size: 1.5rem;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+.resources-content ul {
+  padding: 0;
+  list-style-type: none;
+}
+.resources-content a{
+  color: #0099D8;
+  text-decoration: none;
+}
+.resources-content a:hover{
+  color: rgb(105, 102, 102);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* CONTACT PAGE */
+.contact-content .address p{
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+.contact-content .address-break{
+  padding: 4px;
+}
+
+/* TEAM PAGE */
+.team-content{
+  display: flex;
+  flex-direction: column;
+}
+.bio-photo{
+  align: left;
+  padding-right: 25px;
+  padding-bottom: 10px;
+}
+.bio{
+  margin-bottom: 25px;
+}
 
 /* MOBILE SIZING */
 @media (max-width: 480px) {
+  .content{
+    padding-left: 4%;
+    padding-right: 4%;
+  }
   .navbar {
     padding-top: 4%;
     padding-left: 4%;
     padding-right: 4%;
   }
-  img{
-    max-width: 0%;
-  }
-  p{
+  p, li{
     font-size: 1.1rem;
   }
   .footer{
@@ -149,15 +133,15 @@ img{
   .footer p{
     font-size: 1rem;
   }
-  .content{
-    padding-left: 4%;
-    padding-right: 4%;
-  }
+
 }
 
 @media (min-width: 480px) {
   .content p{
-    font-size: 1.3rem;
+    font-size: 1.25rem;
+  }
+  .practice-content li{
+    font-size: 1.25rem;
   }
   .footer p{
     padding-left: 10%;
@@ -168,23 +152,48 @@ img{
   }
 }
 
+@media (max-width: 620px) {
+  .bio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .bio-photo{
+    align-content: center;
+  }
+}
+@media (min-width: 620px) {
+  .bio-photo{
+    float: left;
+  }
+}
+
 @media (min-width: 768px) {
-  .navbar {
+  .content p{
+    font-size: 1.4rem;
+  }
+  .practice-content li{
+    font-size: 1.4rem;
+  }
+  .navbar{
     padding-top: 1.5%;
     padding-left: 1.5%;
     padding-right: 1.5%;
   }
-  .footer p {
+  .footer p{
     padding-left: 8%;
   }
-  .content{
-    font-size: 1.6rem;
+  .bio-photo{
+    float: left;
   }
 }
 
 
 @media (min-width: 992px) {
-  .content{
-    font-size: 1.2rem;
+  .content p, li{
+    font-size: 1.3rem;
+  }
+  .bio-photo{
+    float: left;
   }
 }
