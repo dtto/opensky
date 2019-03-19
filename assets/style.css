@@ -164,7 +164,11 @@ a:hover{
   .bio-photo{
     align-content: center;
     padding-right: 0px;
+<<<<<<< HEAD
     padding-bottom: 2px;
+=======
+    padding-bottom: 10px;
+>>>>>>> 4105e9fe0bb3273ed4f0de3c32ae65f150f52db2
   }
 }
 @media (min-width: 620px) {
