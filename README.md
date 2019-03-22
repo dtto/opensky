@@ -76,6 +76,8 @@ The `team.md` file is in HTML, not Markdown due to the styling tags required in 
 ```
 The `[BIO_IMAGE_FILE]` is the file name for the bio photo (must be 273x381px) added into the assets folder. `[NAME]` and `[BIO TEXT]` should be replaced with corresponding information. Every paragraph in the Bio should be wrapped in a paragaraph tag: `<p>This is a paragraph.</p><p>This is a new paragraph.</p>`
 
-## Documentation To-do 
-- how to add documents (pdf, word files) 
+To add links to internal resources such as cv (ideally a pdf file), add the file to `assets` and link as follows: 
 
+```
+<a href="/assets/2019_CV_Neha.pdf">CV</a>
+``` 
