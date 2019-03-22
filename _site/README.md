@@ -1,6 +1,6 @@
 # Open Sky Law Website 
 A static site / blog created in HTML, CSS, Bootstrap, and Jekyll <br>
-created by goeun park (contact: goeuntothepark@gmail.com) march 2019
+created by goeun park (contact: goeuntothepark@gmail.com), march 2019
 
 ## About the site 
 A jekyll project consists of `_layout`, `_includes`, `assets`, and content files in markdown (e.g. `about.md`) which automatically renders the HTML code in the `_site` directory. The contents in `_site` should not be touched directly. The styling for the entire site is defined in `assets/style.css`. The informational content must be formatted in markdown, here's a [quick primer](https://guides.github.com/features/mastering-markdown/). Markdown supports HTML tags. 
@@ -23,7 +23,7 @@ layout: about
 This is part of the jekyll configuration and should not be deleted. 
 
 ## Embedding images 
-Add images (e.g., flying_birds.jpg) directly in the `assets/images` folder. Images can be embedded via markdown: 
+Add images (e.g., flying_birds.jpg) directly in the `assets` folder. Images can be embedded via markdown: 
 ```
 ![This is the alt tag for folks who use screen readers to navigate the web. A short description like 'Photo of birds in the sky' will suffice.](flying_birds.jpg)
 ```
@@ -54,7 +54,7 @@ layout: new_page
 ```
 
 ## Deleting a page 
-1. If you wish to keep the page but delete the page from the navigation bar, delete the appropriate `<li>` element in `_includes/header.html`. Deleting this would take out About from navigation: 
+1. If you wish to keep the page but remove the link from the navigation bar, delete the appropriate `<li>` element in `_includes/header.html`. Deleting this would take out About from navigation: 
  
 ```
 <li class="nav-item">
@@ -63,6 +63,21 @@ layout: new_page
 ```
 2. To delete the page entirely, remove the corresponding HTML file from `_layouts` and the markdown file from root directory.
   
-## Documentation To-do 
-- how to add documents (pdf, word files) 
+## Team Page Styling 
+The `team.md` file is in HTML, not Markdown due to the styling tags required in embedding photos. To add a new team member, copy this code: 
+```
+<div class="bio">
+<img src="/assets/[BIO_IMAGE_FILE]" class="bio-photo" alt="Photo of [NAME]">
+<h2> [NAME] </h2>
+<p>
+[BIO TEXT]
+</p>
+</div>
+```
+The `[BIO_IMAGE_FILE]` is the file name for the bio photo (must be 273x381px) added into the assets folder. `[NAME]` and `[BIO TEXT]` should be replaced with corresponding information. Every paragraph in the Bio should be wrapped in a paragaraph tag: `<p>This is a paragraph.</p><p>This is a new paragraph.</p>`
 
+To add links to internal resources such as cv (ideally a pdf file), add the file to `assets` and link as follows: 
+
+```
+<a href="/assets/2019_CV_Neha.pdf">CV</a>
+``` 

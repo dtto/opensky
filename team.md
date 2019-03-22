@@ -25,6 +25,7 @@ Raised in Louisville, Kentucky, Devin received his B.A. in Physics from Oberlin 
 <div class="bio">
 <img src="/assets/bio_photo.png" class="bio-photo" alt="Photo of Neha">
 <h2>Neha Vyas</h2>
+<a href="/assets/2019_CV_Neha.pdf">CV</a>
 <p>
 Neha Vyas is a partner and owner of Open Sky Law, PLLC. She focuses her practice on Violence Against Women Act (“VAWA”), U Visas, asylum, family-based immigration, citizenship, and removal defense, including appeals.
 </p><p>
