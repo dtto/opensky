@@ -6,7 +6,7 @@ layout: team
 
 <div class="bio">
 <img src="/assets/team/elizabeth-cropped.jpg" class="bio-photo-cropped" alt="Photo of Elizabeth">
-<img src="/assets/team/elizabeth.jpg" class="bio-photo-full" alt="Photo of Elizabeth">
+<img src="/assets/team/elizabeth.JPG" class="bio-photo-full" alt="Photo of Elizabeth">
 <h2>Elizabeth Campos</h2>
 <p>
 Elizabeth Campos joined Open Sky Law in May of 2019 as a paralegal. She graduated from the University of Washington with a Bachelor of Arts in Spanish, with a minor in Diversity. Elizabeth has been working as a paralegal in immigration law since June 2015 and volunteers at Citizenship Day events. Born and raised in Seattle, WA, Elizabeth is the daughter of naturalized citizens. She became passionate about helping others after learning about her family’s journey to the U.S. Elizabeth loves to travel, spend time with family, and walk her dogs. She is fluent in Spanish.
@@ -15,7 +15,7 @@ Elizabeth Campos joined Open Sky Law in May of 2019 as a paralegal. She graduate
 
 <div class="bio">
 <img src="/assets/team/devin-cropped.jpg" class="bio-photo-cropped" alt="Photo of Devin">
-<img src="/assets/team/devin.jpg" class="bio-photo-full" alt="Photo of Devin">
+<img src="/assets/team/devin.JPG" class="bio-photo-full" alt="Photo of Devin">
 <h2>Devin T. Theriot-Orr</h2>
 <p>
 Devin T. Theriot-Orr is a partner and owner of Open Sky Law, PLLC. His practice focuses on complex immigration litigation before the federal agencies and the federal courts. He is an active member of the American Immigration Lawyers Association, where he sits on the national amicus committee. He presents regularly at national and regional conferences and enjoys teaching immigration law at Seattle University School of Law. Prior to launching Open Sky Law, Devin was the principal attorney at Sunbird Law, PLLC.
@@ -50,7 +50,7 @@ Whitney grew up in Texas and has lived in Seattle for several years. She receive
 </div>
 
 <div class="bio">
-<img src="/assets/team/jesus.jpg" class="bio-photo-full" alt="Photo of Jesus">
+<img src="/assets/team/jesus.JPG" class="bio-photo-full" alt="Photo of Jesus">
 <img src="/assets/team/jesus-cropped.jpg" class="bio-photo-cropped" alt="Photo of Jesus">
 <h2>Jesus Pinedo</h2>
 <p>
