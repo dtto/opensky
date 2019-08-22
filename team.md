@@ -5,7 +5,8 @@ layout: team
 # Our Team
 
 <div class="bio">
-<img src="/assets/team/elizabeth-cropped.jpg" class="bio-photo" alt="Photo of Elizabeth">
+<img src="/assets/team/elizabeth-cropped.jpg" class="bio-photo-cropped" alt="Photo of Elizabeth">
+<img src="/assets/team/elizabeth.jpg" class="bio-photo-full" alt="Photo of Elizabeth">
 <h2>Elizabeth Campos</h2>
 <p>
 Elizabeth Campos joined Open Sky Law in May of 2019 as a paralegal. She graduated from the University of Washington with a Bachelor of Arts in Spanish, with a minor in Diversity. Elizabeth has been working as a paralegal in immigration law since June 2015 and volunteers at Citizenship Day events. Born and raised in Seattle, WA, Elizabeth is the daughter of naturalized citizens. She became passionate about helping others after learning about her family’s journey to the U.S. Elizabeth loves to travel, spend time with family, and walk her dogs. She is fluent in Spanish.
@@ -13,7 +14,8 @@ Elizabeth Campos joined Open Sky Law in May of 2019 as a paralegal. She graduate
 </div>
 
 <div class="bio">
-<img src="/assets/team/devin-cropped.jpg" class="bio-photo" alt="Photo of Devin">
+<img src="/assets/team/devin-cropped.jpg" class="bio-photo-cropped" alt="Photo of Devin">
+<img src="/assets/team/devin.jpg" class="bio-photo-full" alt="Photo of Devin">
 <h2>Devin T. Theriot-Orr</h2>
 <p>
 Devin T. Theriot-Orr is a partner and owner of Open Sky Law, PLLC. His practice focuses on complex immigration litigation before the federal agencies and the federal courts. He is an active member of the American Immigration Lawyers Association, where he sits on the national amicus committee. He presents regularly at national and regional conferences and enjoys teaching immigration law at Seattle University School of Law. Prior to launching Open Sky Law, Devin was the principal attorney at Sunbird Law, PLLC.
@@ -23,7 +25,8 @@ Raised in Louisville, Kentucky, Devin received his B.A. in Physics from Oberlin 
 </div>
 
 <div class="bio">
-<img src="/assets/team/nehav-cropped.jpg" class="bio-photo" alt="Photo of Neha">
+<img src="/assets/team/nehav-cropped.jpg" class="bio-photo-cropped" alt="Photo of Neha">
+<img src="/assets/team/nehav.jpg" class="bio-photo-full" alt="Photo of Neha">
 <h2>Neha Vyas</h2>
 <a href="/assets/2019_CV_Neha.pdf">CV</a>
 <p>
@@ -38,7 +41,8 @@ Neha is trilingual (English, Hindi, Spanish). She loves spending time with her d
 </div>
 
 <div class="bio">
-<img src="/assets/team/whitney-cropped.jpg" class="bio-photo" alt="Photo of Whitney">
+<img src="/assets/team/whitney.jpg" class="bio-photo-full" alt="Photo of Whitney">
+<img src="/assets/team/whitney-cropped.jpg" class="bio-photo-cropped" alt="Photo of Whitney">
 <h2>Whitney C. Wootton</h2>
 <p>
 Whitney grew up in Texas and has lived in Seattle for several years. She received her law degree magna cum laude from Seattle University School of Law in 2018, and her B.A. in international studies from Texas A&M University in 2009. Prior to law school she studied in Chile and taught English in South Korea. During law school she was on the board of Seattle University’s chapter of the International Refugee Assistance Project (IRAP). She was also an Access to Justice Institute First Year Fellow, a staff editor for the Seattle Journal for Social Justice, and a research assistant for Professor Sara Rankin. She interned at the Moderate Means Program and at Sunbird Law, PLLC, and externed with Kids in Need of Defense (KIND) Seattle. She now practices immigration law, focusing on asylum, removal defense, appeals, family-based petitions, citizenship, federal court litigation, U & T-visas, and VAWA cases.
@@ -46,7 +50,8 @@ Whitney grew up in Texas and has lived in Seattle for several years. She receive
 </div>
 
 <div class="bio">
-<img src="/assets/team/jesus-cropped.jpg" class="bio-photo" alt="Photo of Jesus">
+<img src="/assets/team/jesus.jpg" class="bio-photo-full" alt="Photo of Jesus">
+<img src="/assets/team/jesus-cropped.jpg" class="bio-photo-cropped" alt="Photo of Jesus">
 <h2>Jesus Pinedo</h2>
 <p>
 A native of Jalisco Mexico, Jesus moved to the United States in 1998 and attended Seattle University School for a degree of Arts in Social Psychology.
