@@ -151,6 +151,7 @@ button h3{
   flex-direction: column;
 }
 
+
 .bio-photo-full{
   align: left;
   margin-right: 20px;
@@ -173,7 +174,7 @@ button h3{
   height: 100%;
 }
 
-.team-content a{
+.team-content a, .team-content h4{
   margin-right: 6px;
   font-stretch: expanded;
   font-size: 1.3rem;
