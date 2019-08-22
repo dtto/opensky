@@ -174,12 +174,18 @@ button h3{
   height: 100%;
 }
 
-.team-content a, .team-content h4{
+.team-content a{
   margin-right: 6px;
   font-stretch: expanded;
   font-size: 1.3rem;
   font-weight: bolder;
   text-decoration: none;
+}
+
+.team-content h4 {
+  font-stretch: expanded;
+  font-size: 1.3rem;
+  margin-bottom: 10px;
 }
 
 /* MOBILE SIZING */
