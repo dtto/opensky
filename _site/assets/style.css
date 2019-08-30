@@ -149,6 +149,19 @@ button h3{
 }
 
 
+.photo-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.team-photo, #team-cropped, #team-full{
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+}
+
+
 .bio-photo-full{
   align: left;
   margin-right: 20px;
@@ -244,6 +257,11 @@ button h3{
 }
 
 @media (max-width: 620px) {
+
+  #team-cropped{
+    display: none;
+  }
+
   .bio{
     display: flex;
     flex-direction: column;
@@ -261,6 +279,10 @@ button h3{
     float: left;
   }
   .bio-photo-cropped{
+    display: none;
+  }
+
+  #team-full{
     display: none;
   }
 }
@@ -286,5 +308,9 @@ button h3{
 @media (min-width: 992px) {
   .content p, li{
     font-size: 1.3rem;
+  }
+  .team-photo{
+    padding-left: 10%;
+    padding-right: 10%;
   }
 }
