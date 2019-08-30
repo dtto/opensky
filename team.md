@@ -15,6 +15,24 @@ Elizabeth Campos joined Open Sky Law in May of 2019 as a paralegal. She graduate
 </div>
 
 <div class="bio">
+<img src="/assets/team/jesus.JPG" class="bio-photo-full" alt="Photo of Jesus">
+<img src="/assets/team/jesus-cropped.jpg" class="bio-photo-cropped" alt="Photo of Jesus">
+<h2>Jesus Pinedo</h2>
+<h4>🇲🇽 Speaks English & Spanish</h4>
+<p>
+A native of Jalisco Mexico, Jesus moved to the United States in 1998 and attended Seattle University School for a degree of Arts in Social Psychology.
+</p><p>
+Jesus brings his own personal experience. Not only did it gave him an insight into the Immigration process, but also helped him become intimately aware of the challenges of the Immigration system.
+</p><p>
+Jesus has a long history of volunteering with various organizations in the Puget Sound region. His skills and expertise as a DOJ Department of Justice Accredited Representative has given him a strong, reliable and versatile work ethic that has transferred into his new role at Open Sky Law. His experience has gave him an upper hand as he has have been selected to partake with State Attorney General, US. Representative and other elected officials that have helped to bridge the gap between the services that has guided and provided for immigrants and it’s potential to affect social and political change in the community and county.
+</p><p>
+His strong and fluent communication skills in both English and Spanish are vital to his position, as it will focuses his work on guiding our clients who are applicants for removal defense, asylum, U visas, VAWA claims, family-based petitions, adjustment of status, and naturalization.
+</p><p>
+In his spare time, Jesus enjoys participating in sports, including soccer and volleyball. Jesus also enjoys spending time with his extensive family, traveling with his partner and spending time with their golden doodle. He donates his time as a performer and volunteer helping others to a number of charitable organization and community associations, including American Cancer Society, The Good Times Project, Archdiocese of Seattle, Oasis Youth Center, and Northwest Immigrant Rights Project.
+</p>
+</div>
+
+<div class="bio">
 <img src="/assets/team/devin-cropped.jpg" class="bio-photo-cropped" alt="Photo of Devin">
 <img src="/assets/team/devin.JPG" class="bio-photo-full" alt="Photo of Devin">
 <h2>Devin T. Theriot-Orr</h2>
@@ -50,23 +68,5 @@ Neha is trilingual (English, Hindi, Spanish). She loves spending time with her d
 <h4>🇺🇸 Speaks English & Spanish</h4>
 <p>
 Whitney grew up in Texas and has lived in Seattle for several years. She received her law degree magna cum laude from Seattle University School of Law in 2018, and her B.A. in international studies from Texas A&M University in 2009. Prior to law school she studied in Chile and taught English in South Korea. During law school she was on the board of Seattle University’s chapter of the International Refugee Assistance Project (IRAP). She was also an Access to Justice Institute First Year Fellow, a staff editor for the Seattle Journal for Social Justice, and a research assistant for Professor Sara Rankin. She interned at the Moderate Means Program and at Sunbird Law, PLLC, and externed with Kids in Need of Defense (KIND) Seattle. She now practices immigration law, focusing on asylum, removal defense, appeals, family-based petitions, citizenship, federal court litigation, U & T-visas, and VAWA cases.
-</p>
-</div>
-
-<div class="bio">
-<img src="/assets/team/jesus.JPG" class="bio-photo-full" alt="Photo of Jesus">
-<img src="/assets/team/jesus-cropped.jpg" class="bio-photo-cropped" alt="Photo of Jesus">
-<h2>Jesus Pinedo</h2>
-<h4>🇲🇽 Speaks English & Spanish</h4>
-<p>
-A native of Jalisco Mexico, Jesus moved to the United States in 1998 and attended Seattle University School for a degree of Arts in Social Psychology.
-</p><p>
-Jesus brings his own personal experience. Not only did it gave him an insight into the Immigration process, but also helped him become intimately aware of the challenges of the Immigration system.
-</p><p>
-Jesus has a long history of volunteering with various organizations in the Puget Sound region. His skills and expertise as a DOJ Department of Justice Accredited Representative has given him a strong, reliable and versatile work ethic that has transferred into his new role at Open Sky Law. His experience has gave him an upper hand as he has have been selected to partake with State Attorney General, US. Representative and other elected officials that have helped to bridge the gap between the services that has guided and provided for immigrants and it’s potential to affect social and political change in the community and county.
-</p><p>
-His strong and fluent communication skills in both English and Spanish are vital to his position, as it will focuses his work on guiding our clients who are applicants for removal defense, asylum, U visas, VAWA claims, family-based petitions, adjustment of status, and naturalization.
-</p><p>
-In his spare time, Jesus enjoys participating in sports, including soccer and volleyball. Jesus also enjoys spending time with his extensive family, traveling with his partner and spending time with their golden doodle. He donates his time as a performer and volunteer helping others to a number of charitable organization and community associations, including American Cancer Society, The Good Times Project, Archdiocese of Seattle, Oasis Youth Center, and Northwest Immigrant Rights Project.
 </p>
 </div>

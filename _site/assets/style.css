@@ -185,6 +185,19 @@ button h3{
   margin-bottom: 10px;
 }
 
+.payment-content a {
+    text-decoration: none !important;
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+    align-items: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+}
+
 /* MOBILE SIZING */
 @media (max-width: 480px) {
   .content{
