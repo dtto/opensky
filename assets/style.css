@@ -174,7 +174,7 @@ button h3{
   display: flex;
 }
 
-.bio-photo-cropped{
+.bio-photo{
   border-radius: 50%;
   border: 4px solid rgb(108,95,95);
 }
@@ -192,6 +192,12 @@ button h3{
   font-size: 1.3rem;
   margin-bottom: 10px;
 }
+
+.nametitle{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
 
 
 /* PAYMENT PAGE */
@@ -267,14 +273,24 @@ button h3{
 
 @media (max-width: 768px){
   .bio-image{
+    display: flex;
     align-items: center;
+    justify-content: center;
   }
-  .bio-photo-cropped{
+  .bio-photo{
     max-width: 80%;
+    align-self: center;
+    border: none;
   }
   .bio{
     flex-direction: column;
     align-items: center;
+  }
+  .nametitle{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -283,13 +299,12 @@ button h3{
     flex-direction: row;
     flex-wrap: nowrap;
   }
-  .bio-photo-cropped{
+  .bio-photo{
     float: left;
     align: left;
     margin-right: 40px;
     margin-top: 25px;
     max-width: 300px;
-    /* margin-top: 20px; */
     height: auto;
   }
   .content p{
@@ -321,33 +336,4 @@ button h3{
     padding-left: 15%;
     padding-right: 15%;
   }
-}
-
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-  transition: 0.4s;
-}
-
-.active, .accordion:hover {
-  background-color: #ccc;
-}
-
-.panel {
-  padding: 0 18px;
-  display: none;
-  background-color: white;
-  overflow: hidden;
-}
-
-.nametitle{
-  margin-left: 20px;
-  margin-right: 20px;
 }
