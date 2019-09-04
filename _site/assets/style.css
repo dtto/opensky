@@ -241,7 +241,7 @@ button h3{
     font-size: 1.25rem;
   }
   .practice-content li{
-    font-size: 1.25rem;
+    /* font-size: 1.25rem; */
   }
   .footer p{
     padding-left: 10%;
@@ -315,10 +315,10 @@ button h3{
     font-size: 1.2rem;
   }
   .team-content p{
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
   .practice-content li{
-    font-size: 1.4rem;
+    /* font-size: 1.4rem; */
   }
   .navbar{
     padding-top: 1.5%;
@@ -359,4 +359,8 @@ button h3{
     margin-right: 4rem;
     margin-bottom: 0px;
   }
+}
+
+.practice-content .card{
+  border: 1px solid rgba(0,0,0,.125);
 }
