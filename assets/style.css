@@ -37,6 +37,10 @@ a:hover{
   text-decoration: none;
 }
 
+.nav-link{
+  font-weight: 500;
+}
+
 /* FOOTER */
 .footer{
   background-color: #201e1e;
@@ -102,11 +106,11 @@ button h3{
     background-color: white;
     h2 {
       background: url(https://cdn0.iconfinder.com/data/icons/entypo/91/arrow56-512.png) no-repeat calc(100% - 10px) center;
-    background-size: 20px;
+      background-size: 20px;
       cursor: pointer;
       font-size: 18px;
       &.collapsed {
-            background-image: url(https://cdn0.iconfinder.com/data/icons/arrows-android-l-lollipop-icon-pack/24/expand2-256.png);
+        background-image: url(https://cdn0.iconfinder.com/data/icons/arrows-android-l-lollipop-icon-pack/24/expand2-256.png);
       }
     }
     &-body {
@@ -151,7 +155,6 @@ button h3{
   flex-direction: column;
 }
 
-
 .photo-container{
   display: flex;
   align-items: center;
@@ -164,27 +167,15 @@ button h3{
   height: auto;
 }
 
-
-.bio-photo-full{
-  align: left;
-  margin-right: 20px;
-  margin-top: 25px;
-  max-width: 300px;
-  /* margin-top: 20px; */
-  height: auto;
-  border: 5px solid rgb(108,95,95);
-}
-
-.bio-photo-cropped{
-  align: center;
-  max-width: 80%;
-  border-radius: 50%;
-  border: 4px solid rgb(108,95,95);
-}
-
 .bio{
   margin-bottom: 50px;
   height: 100%;
+  display: flex;
+}
+
+.bio-photo-cropped{
+  border-radius: 50%;
+  border: 4px solid rgb(108,95,95);
 }
 
 .team-content a{
@@ -201,16 +192,18 @@ button h3{
   margin-bottom: 10px;
 }
 
+
+/* PAYMENT PAGE */
 .payment-content a {
-    text-decoration: none !important;
-    display: flex;
-    justify-content: center;
-    font-size: 1.2rem;
-    align-items: center;
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-top: 50px;
-    margin-bottom: 100px;
+  text-decoration: none !important;
+  display: flex;
+  justify-content: center;
+  font-size: 1.2rem;
+  align-items: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 50px;
+  margin-bottom: 100px;
 
 }
 
@@ -259,40 +252,47 @@ button h3{
   }
 }
 
+/* BREAKPOINT FOR TEAM PAGE */
 @media (max-width: 620px) {
-
   #team-cropped{
-    display: none;
-  }
-
-  .bio{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  .bio-photo-cropped{
-
-  }
-  .bio-photo-full{
     display: none;
   }
 }
 @media (min-width: 621px) {
-  .bio-photo-full{
-    float: left;
-  }
-  .bio-photo-cropped{
-    display: none;
-  }
-
   #team-full{
     display: none;
   }
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px){
+  .bio-image{
+    align-items: center;
+  }
+  .bio-photo-cropped{
+    max-width: 80%;
+  }
+  .bio{
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (min-width: 769px) {
+  .bio{
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+  .bio-photo-cropped{
+    float: left;
+    align: left;
+    margin-right: 40px;
+    margin-top: 25px;
+    max-width: 300px;
+    /* margin-top: 20px; */
+    height: auto;
+  }
   .content p{
-    font-size: 1.4rem;
+    font-size: 1.1rem;
   }
   .practice-content li{
     font-size: 1.4rem;
@@ -305,15 +305,19 @@ button h3{
   .footer p{
     padding-left: 8%;
   }
+  .team-photo{
+    padding-left: 10%;
+    padding-right: 10%;
+  }
 }
 
 
 @media (min-width: 992px) {
   .content p, li{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
   .team-photo{
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
   }
 }
