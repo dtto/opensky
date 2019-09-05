@@ -181,7 +181,7 @@ a:hover{
 }
 
 .practice-content a{
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 
@@ -288,6 +288,12 @@ a:hover{
     align-items: center;
     justify-content: center;
   }
+  .contact-photo{
+    display: none;
+  }
+  #contact-photo{
+    display: none;
+  }
 }
 
 @media (min-width: 769px) {
@@ -324,6 +330,28 @@ a:hover{
     padding-left: 10%;
     padding-right: 10%;
   }
+
+  .contact-content{
+    display: grid;
+    grid-template-column: 1fr 1fr;
+    grid-template-areas: "textarea photo";
+  }
+
+  .contact-photo{
+    grid-area: photo;
+    margin-left: 20px;
+    margin-top: 40px;
+  }
+
+  .contact-info{
+    grid-area: textarea;
+  }
+
+  #contact-photo{
+    min-width: 500px;
+    max-width: 500px;
+  }
+
 }
 
 @media (max-width: 991px){
@@ -341,6 +369,14 @@ a:hover{
     padding-bottom: 20px;
   }
 
+  .contact-photo{
+    max-width: 400px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding-bottom: 20px;
+  }
 }
 
 @media (min-width: 992px) {
@@ -364,7 +400,7 @@ a:hover{
 
   .practice-content{
     display: grid;
-    grid-template-column: 1fr 400px;
+    grid-template-column: 1fr 500px;
     grid-template-areas: "main carousel";
   }
 
@@ -388,8 +424,8 @@ a:hover{
   margin-bottom: 20px;
 }
 
-/* #carousel-c{
-  max-width: 800px;
+#carousel-c{
+  max-width: 700px;
   height: auto;
   display: flex;
-} */
+}
