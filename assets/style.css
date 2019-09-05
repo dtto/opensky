@@ -91,38 +91,6 @@ a:hover{
   padding-top: 2%;
 }
 
-/* PRACTICE AREAS PAGE */
-.card-header{
-  border: none;
-  background-color: #0099D8;
-  margin-bottom: 15px;
-}
-.card{
-  border: none;
-}
-button h3{
-  color: white;
-  font-size: 1.3rem;
-}
-.accordion {
-  .card {
-    border: white;
-    background-color: white;
-    h2 {
-      background: url(https://cdn0.iconfinder.com/data/icons/entypo/91/arrow56-512.png) no-repeat calc(100% - 10px) center;
-      background-size: 20px;
-      cursor: pointer;
-      font-size: 18px;
-      &.collapsed {
-        background-image: url(https://cdn0.iconfinder.com/data/icons/arrows-android-l-lollipop-icon-pack/24/expand2-256.png);
-      }
-    }
-    &-body {
-      padding-left: 0;
-      padding-right: 0;
-    }
-  }
-}
 
 /* RESOURCES PAGE */
 .resources-content li{
@@ -201,6 +169,19 @@ button h3{
   margin-right: 20px;
 }
 
+.card{
+  border: none;
+}
+
+/* PRACTICE AREA PAGE */
+.practice-content .card{
+  border: 1px solid rgba(0,0,0,.125);
+}
+
+.practice-content{
+  display: flex;
+  flex-direction: column-reverse;
+}
 
 
 /* PAYMENT PAGE */
@@ -216,6 +197,8 @@ button h3{
   margin-bottom: 100px;
 
 }
+
+
 
 /* MOBILE SIZING */
 @media (max-width: 480px) {
@@ -250,8 +233,13 @@ button h3{
     padding-left: 10%;
   }
   .content{
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 6%;
+    padding-right: 6%;
+  }
+
+  .team-content{
+    padding-left: 12%;
+    padding-right: 12%;
   }
 }
 
@@ -342,6 +330,16 @@ button h3{
     flex-direction: column;
     align-items: center;
   }
+
+  .carousel-container{
+    max-width: 400px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding-bottom: 20px;
+  }
+
 }
 
 @media (min-width: 992px) {
@@ -362,8 +360,20 @@ button h3{
     margin-right: 4rem;
     margin-bottom: 0px;
   }
-}
 
-.practice-content .card{
-  border: 1px solid rgba(0,0,0,.125);
+  .practice-content{
+    display: grid;
+    grid-template-areas: "main carousel";
+  }
+
+  .list-group{
+    grid-area: main;
+  }
+
+  .carousel-container{
+    margin-left: 20px;
+    margin-top: 40px;
+    grid-area: carousel;
+  }
+
 }
