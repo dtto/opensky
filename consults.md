@@ -5,7 +5,7 @@ layout: consults
 
 Most of our clients have never hired a lawyer before. We always start the process with a one-hour consultation. This provides an opportunity for us to meet each other, gives you the chance to meet us and ask us questions about your case, and provides some time for us to learn about your legal situation so we can determine the best course of action. A consultation is not an agreement to provide ongoing legal services to you in your case. During the consultation, our attorneys will discuss your legal situation with you and determine what options are available to you to help solve your immigration situation. Each case is different, and for that reason, we cannot quote a price for your case without first doing a consultation with you so we can fully understand your situation.
 
-Our office is quite busy, and as a result, we do ask for a $50 deposit at the time of scheduling your appointment. If you need to cancel or reschedule, you need to contact us at least one business day in advance of your appointment.
+Our office is quite busy, and as a result, we do ask for a $100 deposit at the time of scheduling your appointment. If you need to cancel or reschedule, you need to contact us at least one business day in advance of your appointment.
 
 ### In-office consultations
 
