@@ -7,6 +7,8 @@ Most of our clients have never hired a lawyer before. We always start the proces
 
 Our office is quite busy, and as a result, we do ask for a $100 deposit at the time of scheduling your appointment. If you need to cancel or reschedule, you need to contact us at least one business day in advance of your appointment.
 
+Please note, **we are not able to take walk-in appointments.** If you wish to schedule a consultation, please do so by calling our office at (206)962-5052 or by emailing contact@opensky.law.
+
 ### In-office consultations
 
 We would like to invite you to schedule a consultation with one of our attorneys at our offices in Kent, Washington. Our consultation fee for a one-hour meeting with our attorneys is $350.00, payable in advance. Please be sure to bring with you any documents that relate to your immigration case. If you have ever received any paperwork from U.S. immigration, please bring it with you to the appointment so that we can properly analyze your situation. Additionally, if you have ever been arrested or convicted for any criminal matter anywhere in the world, please bring any documents relating to the incident with you to your appointment.
