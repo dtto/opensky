@@ -9,13 +9,13 @@ Our office is quite busy, and as a result, we do ask for a $100 deposit at the t
 
 Please note, **we are not able to take walk-in appointments.** If you wish to schedule a consultation, please do so by calling our office at (206)962-5052 or by emailing contact@opensky.law.
 
-### In-office consultations
+### Consultations
 
-We would like to invite you to schedule a consultation with one of our attorneys at our offices in Kent, Washington. Our consultation fee for a one-hour meeting with our attorneys is $350.00, payable in advance. Please be sure to bring with you any documents that relate to your immigration case. If you have ever received any paperwork from U.S. immigration, please bring it with you to the appointment so that we can properly analyze your situation. Additionally, if you have ever been arrested or convicted for any criminal matter anywhere in the world, please bring any documents relating to the incident with you to your appointment.
+**Due to COVID-19, all consultations are being conducted by telephone or video conferencing.**
 
-### Telephonic consultations
+We would like to invite you to schedule a consultation with one of our attorneys. Our consultation fee for a one-hour meeting with our attorneys is $350.00, payable in advance. We will provide you with a secure location where you may upload any documents that relate to your immigration case for our review. If you have ever received any paperwork from U.S. immigration, it is important for you to send it to us in advance of the appointment so that we can properly analyze your situation. Additionally, if you have ever been arrested or convicted for any criminal matter anywhere in the world, please send us any documents relating to the incident prior to your appointment.
 
-If you are not located in the greater Seattle area, we can also do a telephonic consultation. Our telephonic consultation fee is also $350. We do ask that you send all relevant documents about your immigration case to us in advance of your appointment so that we will be able to review them during the consultation and provide you with the most thorough analysis of your case.
+Once the situation normalizes with COVID-19, we will offer a follow-up meet and greet appointment (20 minutes) once it is safe to do so at no additional charge.
 
 ### Detained consultations
 
@@ -27,7 +27,7 @@ Our attorneys have frequently provided services to other attorneys to assist in 
 
 ### Preparing for your appointment
 
-In order for the appointment to be the most helpful to you, it is important to try to bring the following documents about your (or your relative or friend’s case):
+In order for the appointment to be the most helpful to you, it is important to try to gather the following documents about your (or your relative or friend’s case):
 
 1. Current and prior passports, and I-94’s (or copies).
 1. Any prior applications (with the supporting documents) submitted to U.S. Immigration, the U.S. consulate, or the Department of Labor, plus any notices, receipts, or decisions regarding those applications. If you have ever been represented by another attorney, please ask that attorney for a copy of your file. Your prior lawyer should have these important documents and is required to give them to you
